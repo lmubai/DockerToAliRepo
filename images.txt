@@ -7,7 +7,7 @@ kibana:7.17.6
 logstash:7.17.6
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
-rabbitmq
+rabbitmq:3.13.3-management
 bitnami/zookeeper:3.8.0
 bitnami/kafka:3.6.2
 mongo:4.4
