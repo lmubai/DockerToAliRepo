@@ -1,1 +1,1 @@
-pull wnameless/oracle-xe-11g-r2
+wnameless/oracle-xe-11g-r2
