@@ -1,1 +1,1 @@
-pgadmin4:latest
+hub-mirror.c.163.com/library/pgadmin4:latest
