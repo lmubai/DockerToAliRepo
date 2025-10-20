@@ -1,1 +1,1 @@
-hub-mirror.c.163.com/library/pgadmin4:latest
+postgis/postgis:12-3.4
