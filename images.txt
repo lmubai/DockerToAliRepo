@@ -1,1 +1,1 @@
-rhasspy/wyoming-piper
+gexlabs/piper-http
